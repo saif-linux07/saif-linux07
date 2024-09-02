@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Saif</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animation%2Fdevops-engineer-11227408&psig=AOvVaw3YbPd7yN_Kda6lmAht9gea&ust=1725364886960000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjrp7CgpYgDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saif-linux07&label=Profile%20views&color=0e75b6&style=flat" alt="saif-linux07" /> </p>
 
