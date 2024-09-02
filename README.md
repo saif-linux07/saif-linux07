@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **DevOps, Linux, Computer Networking, AWS, etc.**
 
-- 📝 I regularly write articles on [https://hashnode.com/edit/clyobpeyb00090al5c7p940rj](https://hashnode.com/@saif102)
+- 📝 I regularly write articles on (https://hashnode.com/@saif102)
 
 - 📫 How to reach me **mohmmadsaif692@gmail.com**
 
