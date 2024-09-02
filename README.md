@@ -1,4 +1,4 @@
-![logo](https://github.com/saif-linux07/saif-linux07/blob/main/Black%20and%20White%20Simple%20Business%20LinkedIn%20Career%20page%20Background.png)
+![logo](https://github.com/saif-linux07/saif-linux07/blob/main/Yellow%20%26%20Black%20Geometric%20Personal%20Branding%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mohd Saif</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
